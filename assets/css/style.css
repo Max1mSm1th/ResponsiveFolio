@@ -216,3 +216,16 @@ input[type=text], select, textarea {
   background-color: #f2f2f2;
   padding: 20px;
 }
+
+@media only screen and (max-width: 600px) {
+  
+  #body {
+  
+  }
+
+  #headshot {
+    width: 100%;
+    height: 100%;
+  }
+
+}
