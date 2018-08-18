@@ -1,0 +1,11 @@
+button {
+    float: left;
+    width: 20%;
+    height: 20%;
+}
+
+.nav {
+    float: right;
+    width: 80%;
+    text-align: right;
+}
